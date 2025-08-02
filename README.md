@@ -1,20 +1,18 @@
-This is your group repo for your final project for COGS108.
+This project analyzes the relationship between urban population metrics and national happiness scores using data-driven methods. It explores how factors such as urbanization, environmental characteristics, and economic indicators correlate with happiness levels across different countries.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+This project was developed along with four other groupmates for COGS 108 (Data Scinece in Practice) at UCSD. This repository contains all of the project materials and checkpoints that were included in the original project repository. 
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+## Project Overview
+- **Goal:** Identify key drivers of national happiness and understand the impact of urban population trends.
+- **Main Tools & Technologies:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks, Git/GitHub
+- **Key Deliverables:**
+  - Data Cleaning & Preprocessing
+  - Exploratory Data Analysis (EDA)
+  - Correlation Analysis between urban metrics and happiness scores
+  - Visualizations highlighting key trends and insights
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
-
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+## Features
+- Interactive visualizations showcasing global happiness trends.
+- Analysis of urbanization patterns and their influence on happiness.
+- Functions for data wrangling and visualization.
+- Scalable project structure for future data integration.
